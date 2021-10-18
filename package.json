@@ -1,0 +1,29 @@
+{
+  "name": "userprofile",
+  "version": "1.0.0",
+  "description": "userProfile api using node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohiandipta/userProfile.git"
+  },
+  "keywords": [
+    "node",
+    "user",
+    "profile",
+    "api"
+  ],
+  "author": "mohian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohiandipta/userProfile/issues"
+  },
+  "homepage": "https://github.com/mohiandipta/userProfile#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
